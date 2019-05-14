@@ -1,0 +1,19 @@
+Files:
+manage -> cmd line
+urls -> mappings for where we send the user
+wsgi -> connect python to our web server
+
+run Website :
+python3 manage.py runserver
+
+apps are differnt projects within the website can use functionality in multiple apps
+
+
+Django lets you code in the templates to render stuff from POST
+
+Title is Actually the Name on the Window in On Browser
+
+Can create classes in models.py and use migrate to automatically write SQL code
+
+two commands:    makemigrations -> when done making the classes
+                 migrate -> generates SQL Code
