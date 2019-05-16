@@ -27,7 +27,9 @@ SECRET_KEY = '@q5b0g=&ta1!&*crck)l@o0b9dvu&tn3l3@ol^z7=+b&!pkqeq'
 DEBUG = True
 
 ALLOWED_HOSTS = ['sportsbettingbook.herokuapp.com',
-'127.0.0.1']
+'127.0.0.1', 
+'http://www.sportsbettingbook.ca'
+]
 
 BETTING_API_PASSWORD = os.environ.get('ODDS_API_KEY')
 
