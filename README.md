@@ -9,7 +9,7 @@
 
 #### For Demo : http://www.sportsbettingbook.ca
 
-### Technologies Used
+## Technologies Used
 <br/>
 #### Python Backend wit Django Framework
 <br/>
