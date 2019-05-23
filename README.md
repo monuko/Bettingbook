@@ -10,25 +10,15 @@
 #### For Demo : http://www.sportsbettingbook.ca
 
 ## Technologies Used
-<br/>
+
 - Python Backend wit Django Framework
-<br/>
-<br/>
 - ODDS and THESPORTSDB API's
-<br/>
-<br/>
 - Microsoft's Cognitive API
-<br/>
-<br/>
 - ESPN NEWS API
-<br/>
-<br/>
 - Django's Allauth
-<br/>
-<br/>
 - SQLITE
-<br/>
-<br/>
+
+<br\>
 The above database is for debugging and light testing only.
 This database is not meant for scale, please use another database if you will be building with this product for commercials reasons.
 
