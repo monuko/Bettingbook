@@ -18,7 +18,7 @@
 - Django's Allauth
 - SQLITE
 
-<br\>
+
 The above database is for debugging and light testing only.
 This database is not meant for scale, please use another database if you will be building with this product for commercials reasons.
 
