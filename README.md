@@ -9,22 +9,23 @@
 
 ## Technologies Used
 <br/>
-Python Backend wit Django Framework
+- Python Backend wit Django Framework
 <br/>
 <br/>
-ODDS and THESPORTSDB API's
+- ODDS and THESPORTSDB API's
 <br/>
 <br/>
-Microsoft's Cognitive API
+- Microsoft's Cognitive API
 <br/>
 <br/>
-ESPN NEWS API
+- ESPN NEWS API
 <br/>
 <br/>
-Django's Allauth
+- Django's Allauth
 <br/>
 <br/>
-SQLITE
+- SQLITE
+<br/>
 <br/>
 The above database is for debugging and light testing only.
 This database is not meant for scale, please use another database if you will be building with this product for commercials reasons.
