@@ -2,7 +2,7 @@
 **Some parts of the Betting platform are open sourced**
 <br/>
 <br/>
-**If you would like to learn more about our full-development platform or need guidance with software related issues, please contact nyle.dharani@gmail.com for questions and concern**
+**If you would like to learn more about our full-development platform or need guidance with software related issues, please contact nyle.dharani@gmail.com for questions and concerns**
 <br/>
 <br/>
 **Please feel free to play with code, add new features, and learn from existing code** 
